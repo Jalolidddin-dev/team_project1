@@ -1,9 +1,9 @@
 import React from 'react'
 
-function mohinur() {
+function Mohinur() {
   return (
     <div>mohinur</div>
   )
 }
 
-export default mohinur
+export default Mohinur
