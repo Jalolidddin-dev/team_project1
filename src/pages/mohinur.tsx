@@ -1,3 +1,4 @@
+
 import React from 'react'
 
 function Mohinur() {
@@ -7,3 +8,8 @@ function Mohinur() {
 }
 
 export default Mohinur
+function Mohinur() {
+  return <div>mohinur</div>;
+}
+
+export default Mohinur;
